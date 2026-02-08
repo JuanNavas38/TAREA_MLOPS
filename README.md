@@ -1,4 +1,4 @@
-# Taller 1 - Nivel 0: Palmer Penguins 🐧
+# Taller 1 - Nivel 0: Palmer Penguins
 
 ## MLOps - Pontificia Universidad Javeriana
 
