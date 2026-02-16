@@ -1,4 +1,4 @@
-# Taller 1 - Nivel 0: Palmer Penguins
+# Taller 1: Palmer Penguins
 
 **MLOps - Pontificia Universidad Javeriana**
 
@@ -7,6 +7,7 @@
 ## Autores
 *   **Juan Navas**
 *   **Camila Cuellar**
+*   **Jhonathan Murcia**
 *   Maestría en Ingeniería de Sistemas y Computación, PUJ
 
 ---
