@@ -8,7 +8,7 @@
 *   **Juan Navas**
 *   **Camila Cuellar**
 *   **Jhonathan Murcia**
-*   Maestría en Ingeniería de Sistemas y Computación, PUJ
+*   Maestría en Inteligencia Artificial, PUJ
 
 ---
 
