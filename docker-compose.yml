@@ -1,0 +1,11 @@
+services:
+  backend-mlops:
+    build: .
+
+    ports:
+      - "8000:8989"
+
+    volumes:
+      - '.:/app'
+
+    command: ["uvicorn", "src.api:app", "--host", "0.0.0.0", "--port", "8989"]
